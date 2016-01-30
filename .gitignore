@@ -1,0 +1,6 @@
+.DS_Store
+.
+__test__library__
+.dub
+dub.selections.json
+dub.userprefs
